@@ -10,4 +10,10 @@ Further documentation is available on [the ctrl.alt.rees blog](https://ctrl-alt-
 - [Amstrad PC1512 Liberation Part 2 - The Video Inverter Circuit](https://ctrl-alt-rees.com/2018-09-25-amstrad-pc1512-video-inverter-circuit.html)
 - [Amstrad PC1512 Liberation Part 3 - The Prototype Video Liberator](https://ctrl-alt-rees.com/2018-10-16-amstrad-pc1512-video-inverter-circuit-prototype.html)
 
+## Sample Screenshots
+
+![Sample Boot Screen Screenshot](https://github.com/reesclissold/amstrad-video-liberator/blob/master/images/Breadboard%20Prototype%20v1/Output%20Screenshots/01%20-%20Boot%20Screen.jpg)
+
+I am adding screenshots as I go along, the first batch can be found [here](https://github.com/reesclissold/amstrad-video-liberator/blob/master/images/Breadboard%20Prototype%20v1/Output%20Screenshots/)
+
 All original content and schematics in this repository are released under the [MIT license](LICENSE) as open source hardware. Third party content (eg datasheets) are made available under their own respective licenses for informational purposes only.
