@@ -12,8 +12,8 @@ Further documentation is available on [the ctrl.alt.rees blog](https://ctrl-alt-
 
 ## Sample Screenshots
 
-![Sample Boot Screen Screenshot](https://github.com/reesclissold/amstrad-video-liberator/blob/master/images/Breadboard%20Prototype%20v1/Output%20Screenshots/01%20-%20Boot%20Screen.jpg)
+![Sample Boot Screen Screenshot](https://github.com/reesclissold/amstrad-pc1512-video-liberator/blob/master/images/Breadboard%20Prototype%20v1/Output%20Screenshots/01%20-%20Boot%20Screen.jpg)
 
-I am adding screenshots as I go along, the first batch can be found [here](https://github.com/reesclissold/amstrad-video-liberator/blob/master/images/Breadboard%20Prototype%20v1/Output%20Screenshots/)
+I am adding screenshots as I go along, the first batch can be found [here](https://github.com/reesclissold/amstrad-pc1512-video-liberator/blob/master/images/Breadboard%20Prototype%20v1/Output%20Screenshots/)
 
 All original content and schematics in this repository are released under the [MIT license](LICENSE) as open source hardware. Third party content (eg datasheets) are made available under their own respective licenses for informational purposes only.
